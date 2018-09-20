@@ -1,5 +1,5 @@
 {
-  "name": "oe-jwt-util",
+  "name": "oe-jwt-utils",
   "version": "0.0.1",
   "description": "JWT utility functions",
   "engines": {
@@ -8,14 +8,14 @@
   "scripts": {
   },
   "dependencies": {
-	  "jsonwebtoken": "^8.0.1",
+    "jsonwebtoken": "^8.0.1",
     "oe-logger": "^0.9.1"
   },
   "devDependencies": {
   },
   "repository": {
     "type": "git",
-    "url": "git@evgit:oec-next/oe-jwt-util.git"
+    "url": "git@evgit:oec-next/oe-jwt-utils.git"
   },
   "license": "MIT"
 }
