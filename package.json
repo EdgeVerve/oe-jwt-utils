@@ -1,6 +1,6 @@
 {
   "name": "oe-jwt-utils",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "JWT utility functions",
   "engines": {
     "node": ">=6"
@@ -8,11 +8,12 @@
   "scripts": {
   },
   "dependencies": {
-    "jsonwebtoken": "^8.0.1",
-    "oe-logger": "^1.0.0"
+    "jsonwebtoken": "8.4.0",
+    "oe-logger": "git+http://evgit/oec-next/oe-logger.git#master"
   },
   "devDependencies": {
   },
+  "author": "Dipayan Aich <dipayan_aich@infosys.com>",
   "repository": {
     "type": "git",
     "url": "git@evgit:oec-next/oe-jwt-utils.git"
