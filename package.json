@@ -1,6 +1,6 @@
 {
   "name": "oe-jwt-utils",
-  "version": "2.0.0",
+  "version": "2.2.0",
   "description": "JWT utility functions",
   "engines": {
     "node": ">=6"
@@ -13,7 +13,7 @@
     "grunt-cover": "grunt test-with-coverage"
   },
   "dependencies": {
-    "oe-logger": "git+http://evgit/oecloud.io/oe-logger.git#master"
+    "oe-logger": "git+http://evgit/oecloud.io/oe-logger.git#2.2.0"
   },
   "devDependencies": {
     "babel-eslint": "7.2.3",
